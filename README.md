@@ -9,7 +9,7 @@
 
 1. <a id = "kiyu"></a> キユウシュウ
 
-![冀幽州.drawio](C:\Users\cs19038\git\AbondonedGirl\Castle\png\冀幽州.drawio.png)
+![冀幽州.drawio](.\Castle\png\冀幽州.drawio.png)
 
 1. <a id = "seiyo"></a>セイヨシュウ![青豫州.drawio](C:\Users\cs19038\git\AbondonedGirl\Castle\png\青豫州.drawio.png)
 
