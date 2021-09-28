@@ -13,7 +13,7 @@
 
 
 
-1. <a id = "kiyu"></a> キユウシュウ ![冀幽州](./Castle/png/冀幽州.png)
+1. <a id = "kiyu"></a> キユウシュウ ![冀幽州](./Castle/png/kiyu.png)
 2. <a id = "seiyo"></a>セイヨシュウ![青豫州](./Castle/png/青豫州.drawio.png)
 3. <a id = "keiyou"></a>ケイヨウシュウ![荊揚州](./Castle/png/荊揚州.drawio.png)
 4. <a id = "ryoueki"> </a>リョウエキシュウ![涼益州](./Castle/png/涼益州.drawio.png)
