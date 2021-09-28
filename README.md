@@ -22,6 +22,6 @@
 
 1. <a id = "kiyu"></a> キユウシュウ ![冀幽州](./Castle/png/kiyu.png)
 2. <a id = "seiyo"></a>セイヨシュウ![青豫州](./Castle/png/seiyo.png)
-3. <a id = "keiyou"></a>ケイヨウシュウ![荊揚州](./Castle/png/keiyou.png)
+3. <a id = "keiyou"></a>ケイヨウシュウ![荊揚州](./Castle/png/keiyo.png)
 4. <a id = "ryoueki"> </a>リョウエキシュウ![涼益州](./Castle/png/ryoueki.png)
 5. <a id = "outo"> </a> オウトケン![王都圏](./Castle/png/outo.png)
